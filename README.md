@@ -5,6 +5,7 @@ This repository contains a series of support files for the CloneWars #MayThe4th 
 - Links referenced in the presentation
 - SQL CREATE TABLE, CREATE VIEW, and SELECT INTO queries
 - Azure Streaming Analytics query
+- Link to Azure Data Factory GitHub repo for project
 
 ## Links
 ### Intro
