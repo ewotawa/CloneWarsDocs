@@ -26,3 +26,5 @@ This repository contains a series of support files for the CloneWars #MayThe4th 
 ### R Script in Power BI
 - [Run R scripts in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-r-scripts)
 - [Create and use R visuals in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/service-r-visuals)
+### Azure Data Factory Pipeline
+- [GitHub repo for Azure Data Factory pipeline](https://github.com/ewotawa/CloneWars)
