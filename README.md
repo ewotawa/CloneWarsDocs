@@ -29,3 +29,9 @@ This repository contains a series of support files for the CloneWars #MayThe4th 
 - [Create and use R visuals in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/service-r-visuals)
 ### Azure Data Factory Pipeline
 - [GitHub repo for Azure Data Factory pipeline](https://github.com/ewotawa/CloneWars)
+
+## CONNECT
+- [https://www.elizabethwotawa.com](https://www.elizabethwotawa.com)
+- [@PenguinPhoenixE](https://twitter.com/PenguinPhoenixE)
+
+** Links referenced are my own recommendations. I was not paid to provide them. **
